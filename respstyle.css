@@ -1,0 +1,23 @@
+@media screen and (min-width: 992px) {
+    .marka img{
+        width: 150px;
+    }
+    .sites .col-lg-6{
+        width:48%;
+    }
+    .card .card-text{
+        max-width: 435px;
+    }
+    .yazilar .right-section{
+        padding-left: 38px;
+        padding-right: 0;
+    }
+  }
+@media  screen and (max-width: 484px) {
+    header .header-baslik{
+        font-size: 32px;
+    }
+    .marka .row{
+        margin-top: 60px;
+    }
+}
